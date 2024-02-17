@@ -1,5 +1,6 @@
 # SFS (Computer Science 360)
-A simple file system (FAT12)
+
+Omar Madhani
 
 Sources: Some of the code used in my program was provided by the course instructor Ahmad Abdullah. I also modified some of this code.
 
