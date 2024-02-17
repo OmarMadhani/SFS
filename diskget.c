@@ -1,5 +1,4 @@
 // Name: Omar Madhani
-// V00978484
 
 #include <stdio.h>
 #include <stdlib.h>
