@@ -1,5 +1,4 @@
 // Name: Omar Madhani
-// V00978484
 
 #ifndef diskfunctions
 #define diskfunctions
