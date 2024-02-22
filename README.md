@@ -6,7 +6,7 @@ Sources: Some of the code used in my program was provided by the course instruct
 
 (Please look in diskfunctions.h for further details)
 
-Ensure that diskinfo.c, disklist.c, diskget.c, diskput.c, diskfunctions.h, the Makefile, and any test disk image files (FAT-12) are in the same Linux directory.
+Ensure that diskinfo.c, disklist.c, diskget.c, diskfunctions.h, the Makefile, and any test disk image files (FAT-12) are in the same Linux directory.
 
 To compile the four C files and create four executables, simply type "make" in your command line (within the same directory).
 
